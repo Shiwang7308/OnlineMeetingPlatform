@@ -7,8 +7,8 @@ const config = {
     APISecret: "YOUR API SECRET KEY",
   },
   production: {
-    APIKey: "G8ciugfoRqGf5m_vZ8NETQ",
-    APISecret: "qVNsNI0LJ5jygqOv7djeA61MrkMMP0minyvF",
+    APIKey: "Your API KEY",
+    APISecret: "YOUR API SECRET KEY",
   },
 };
 
